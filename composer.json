@@ -1,0 +1,15 @@
+{
+    "name": "imie/wmddoctrine",
+    "description": "doctrine test wmd 02",
+    "type": "doctrine/orm",
+    "require": {
+        "doctrine/orm": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iman Gatine",
+            "email": "imangatine@gmail.com"
+        }
+    ]
+}
